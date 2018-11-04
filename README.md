@@ -1,2 +1,2 @@
-## Koleski
-# E-Book Berbahasa Indonesia
+# Koleksi
+## E-Book Berbahasa Indonesia
